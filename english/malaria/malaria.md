@@ -14,6 +14,6 @@ on you that you are near the town of Impala.
 
 Now stop fooling around and take your malaria pill. You've got to find the
 jackal and put an end to this madness. How else do you think you're
-going to complete FarCry 2. Huh?
+going to complete FarCry 3. Huh?
 
 This story sucks? OK, go [back](../marshmallow.md)
